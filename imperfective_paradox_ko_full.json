@@ -1,0 +1,3606 @@
+[
+  {
+    "id": "A_001",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "고치다",
+    "premise": "그는 고장 난 시계를 고치고 있었는데, 부품이 없어서 작업을 중단했다.",
+    "hypothesis": "그는 고장 난 시계를 다 고쳤다.",
+    "label": "False"
+  },
+  {
+    "id": "A_002",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "채우다",
+    "premise": "그녀는 컵에 물을 채우고 있었는데, 수도가 갑자기 끊겨 절반만 찬 채로 멈췄다.",
+    "hypothesis": "그녀는 컵에 물을 가득 채웠다.",
+    "label": "False"
+  },
+  {
+    "id": "A_003",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "청소하다",
+    "premise": "그는 방 하나를 청소하고 있었는데, 갑자기 손님이 찾아와 절반만 치운 채로 나갔다.",
+    "hypothesis": "그는 방 하나 전체를 청소했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_004",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "수리하다",
+    "premise": "정비사가 차 한 대를 수리하고 있었는데, 부품이 도착하지 않아 작업을 멈췄다.",
+    "hypothesis": "정비사가 차 한 대를 다 수리했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_005",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "비우다",
+    "premise": "그는 서랍을 비우고 있었는데, 안쪽 물건이 걸려서 절반만 비운 채로 그만두었다.",
+    "hypothesis": "그는 서랍을 다 비웠다.",
+    "label": "False"
+  },
+  {
+    "id": "A_006",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "말리다",
+    "premise": "그녀는 빨래를 말리고 있었는데, 갑자기 비가 쏟아져 여전히 축축한 채로 걷어야 했다.",
+    "hypothesis": "그녀는 빨래를 완전히 말렸다.",
+    "label": "False"
+  },
+  {
+    "id": "A_007",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "세탁하다",
+    "premise": "그는 옷 한 벌을 세탁하고 있었는데, 다 세탁하기 전에 세탁기가 고장 나서 멈췄다.",
+    "hypothesis": "그는 옷 한 벌을 다 세탁했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_008",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "다림질하다",
+    "premise": "그녀는 셔츠 한 장을 다림질하고 있었는데, 절반쯤 다렸을 때 다리미가 갑자기 꺼졌다.",
+    "hypothesis": "그녀는 셔츠 한 장을 다 다림질했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_009",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "깎다",
+    "premise": "그는 연필을 깎고 있었는데, 다 깎기 전에 연필깎이가 고장 났다.",
+    "hypothesis": "그는 연필을 다 깎았다.",
+    "label": "False"
+  },
+  {
+    "id": "A_010",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "부풀리다",
+    "premise": "그는 풍선을 최대한 부풀리고 있었는데, 바람이 새는 구멍이 있어 서서히 바람이 빠졌다.",
+    "hypothesis": "그는 풍선을 최대한 다 부풀렸다.",
+    "label": "False"
+  },
+  {
+    "id": "A_011",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "얼리다",
+    "premise": "그녀는 물을 얼리고 있었는데, 다 얼기 전에 정전이 되어 냉동고가 멈췄다.",
+    "hypothesis": "그녀는 물을 다 얼렸다.",
+    "label": "False"
+  },
+  {
+    "id": "A_012",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "녹이다",
+    "premise": "그는 버터를 녹이고 있었는데, 다 녹기 전에 급한 일이 생겨 불을 꺼서 더 이상 녹지 않았다.",
+    "hypothesis": "그는 버터를 다 녹였다.",
+    "label": "False"
+  },
+  {
+    "id": "A_013",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "봉합하다",
+    "premise": "의사가 상처를 봉합하고 있었는데, 다 봉합하기 전에 응급 상황이 발생해 다른 환자에게 가야 했다.",
+    "hypothesis": "의사가 상처를 다 봉합했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_014",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "개조하다",
+    "premise": "그들은 집을 개조하고 있었는데, 예산이 바닥나 공사를 중단했다.",
+    "hypothesis": "그들은 집을 다 개조했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_015",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "철거하다",
+    "premise": "인부들이 건물을 철거하고 있었는데, 안전 문제로 작업이 중단됐다.",
+    "hypothesis": "인부들이 건물을 다 철거했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_016",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "파다",
+    "premise": "그는 구덩이 하나를 파고 있었는데, 땅속에서 바위가 나와 더 팔 수 없었다.",
+    "hypothesis": "그는 구덩이 하나를 다 팠다.",
+    "label": "False"
+  },
+  {
+    "id": "A_017",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "싸다",
+    "premise": "그녀는 짐을 싸고 있었는데, 다 싸기 전에 갑자기 일정이 취소되어 그만두었다.",
+    "hypothesis": "그녀는 짐을 다 쌌다.",
+    "label": "False"
+  },
+  {
+    "id": "A_018",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "풀다",
+    "premise": "그는 매듭 하나를 풀고 있었는데, 너무 단단히 얽혀 있어 절반만 푼 채로 포기했다.",
+    "hypothesis": "그는 매듭 하나를 다 풀었다.",
+    "label": "False"
+  },
+  {
+    "id": "A_019",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "펴다",
+    "premise": "그녀는 구겨진 종이를 펴고 있었는데, 다 펴기 전에 종이가 찢어져서 멈췄다.",
+    "hypothesis": "그녀는 구겨진 종이를 다 폈다.",
+    "label": "False"
+  },
+  {
+    "id": "A_020",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "해독하다",
+    "premise": "그는 암호 하나를 해독하고 있었는데, 단서가 부족해 도중에 포기했다.",
+    "hypothesis": "그는 암호 하나를 다 해독했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_021",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "정리하다",
+    "premise": "그는 책상 하나를 정리하고 있었는데, 급한 전화를 받고 절반만 정리한 채로 자리를 떴다.",
+    "hypothesis": "그는 책상 하나를 다 정리했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_022",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "지우다",
+    "premise": "그녀는 칠판을 지우고 있었는데, 수업 종이 울려 일부만 지운 채로 멈췄다.",
+    "hypothesis": "그녀는 칠판을 전부 지웠다.",
+    "label": "False"
+  },
+  {
+    "id": "A_023",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "수정하다",
+    "premise": "그는 보고서를 수정하고 있었는데, 다 수정하기 전에 컴퓨터가 갑자기 꺼졌다.",
+    "hypothesis": "그는 보고서를 다 수정했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_024",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "설치하다",
+    "premise": "그녀는 프로그램을 설치하고 있었는데, 인터넷이 끊겨 설치가 중단됐다.",
+    "hypothesis": "그녀는 프로그램을 다 설치했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_025",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "포장하다",
+    "premise": "그는 선물을 포장하고 있었는데, 포장지가 모자라서 멈췄다.",
+    "hypothesis": "그는 선물을 다 포장했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_026",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "제거하다",
+    "premise": "그녀는 자전거의 녹을 제거하고 있었는데, 시간이 없어 일부만 제거한 채로 그만두었다.",
+    "hypothesis": "그녀는 자전거의 녹을 다 제거했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_027",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "메우다",
+    "premise": "그는 벽의 틈을 메우고 있었는데, 재료가 떨어져 작업을 중단했다.",
+    "hypothesis": "그는 벽의 틈을 다 메웠다.",
+    "label": "False"
+  },
+  {
+    "id": "A_028",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "구조하다",
+    "premise": "소방관이 아이를 구조하고 있었는데, 건물이 무너지기 시작해 뒤로 물러나야 했다.",
+    "hypothesis": "소방관이 아이를 다 구조했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_029",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "구해내다",
+    "premise": "그는 물에 빠진 사람을 구해내고 있었는데, 물살이 너무 세서 놓치고 말았다.",
+    "hypothesis": "그는 물에 빠진 사람을 다 구해냈다.",
+    "label": "False"
+  },
+  {
+    "id": "A_030",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "다듬다",
+    "premise": "그는 잔디밭을 다듬고 있었는데, 다듬는 기계가 고장 나서 절반만 다듬은 채로 멈췄다.",
+    "hypothesis": "그는 잔디밭 전체를 다듬었다.",
+    "label": "False"
+  },
+  {
+    "id": "A_031",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "쓸다",
+    "premise": "그녀는 바닥을 쓸고 있었는데, 빗자루가 부러져서 절반만 쓴 채로 멈췄다.",
+    "hypothesis": "그녀는 바닥 전체를 쓸었다.",
+    "label": "False"
+  },
+  {
+    "id": "A_032",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "닦다",
+    "premise": "그는 복도를 대걸레로 닦고 있었는데, 양동이 물이 다 떨어져 절반만 닦은 채로 멈췄다.",
+    "hypothesis": "그는 복도 전체를 대걸레로 닦았다.",
+    "label": "False"
+  },
+  {
+    "id": "A_033",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "광내다",
+    "premise": "그녀는 구두를 광내고 있었는데, 약속 시간이 다가와 도중에 자리를 떴다.",
+    "hypothesis": "그녀는 구두를 다 광냈다.",
+    "label": "False"
+  },
+  {
+    "id": "A_034",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "사포질하다",
+    "premise": "그는 책상을 사포질하고 있었는데, 사포가 다 닳아서 절반만 사포질한 채로 멈췄다.",
+    "hypothesis": "그는 책상 전체를 사포질했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_035",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "없애다",
+    "premise": "그녀는 욕실의 곰팡이를 없애고 있었는데, 세제가 떨어져 일부만 없앤 채로 그만두었다.",
+    "hypothesis": "그녀는 욕실의 곰팡이를 다 없앴다.",
+    "label": "False"
+  },
+  {
+    "id": "A_036",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "자르다",
+    "premise": "그는 종이 한 장을 자르고 있었는데, 가위가 무뎌서 절반만 자른 채로 멈췄다.",
+    "hypothesis": "그는 종이 한 장을 전부 잘랐다.",
+    "label": "False"
+  },
+  {
+    "id": "A_037",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "썰다",
+    "premise": "그녀는 양파 하나를 얇게 썰고 있었는데, 눈이 매워 도중에 멈췄다.",
+    "hypothesis": "그녀는 양파 하나를 얇게 다 썰었다.",
+    "label": "False"
+  },
+  {
+    "id": "A_038",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "다지다",
+    "premise": "그는 마늘을 다지고 있었는데, 다 다지기 전에 칼이 무뎌서 멈췄다.",
+    "hypothesis": "그는 마늘을 다 다졌다.",
+    "label": "False"
+  },
+  {
+    "id": "A_039",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "끓이다",
+    "premise": "그녀는 물을 끓이고 있었는데, 물이 끓어오르기 전에 가스가 갑자기 끊겨 멈췄다.",
+    "hypothesis": "그녀는 물을 다 끓였다.",
+    "label": "False"
+  },
+  {
+    "id": "A_040",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "튀기다",
+    "premise": "그는 감자를 튀기고 있었는데, 다 튀기기 전에 기름에 불이 붙어 급히 불을 꺼야 했다.",
+    "hypothesis": "그는 감자를 다 튀겼다.",
+    "label": "False"
+  },
+  {
+    "id": "A_041",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "굽다",
+    "premise": "그녀는 고기를 다 익을 때까지 굽고 있었는데, 손님이 갑자기 도착해 자리를 떴다.",
+    "hypothesis": "그녀는 고기를 다 구웠다.",
+    "label": "False"
+  },
+  {
+    "id": "A_042",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "데우다",
+    "premise": "그는 국 한 그릇을 데우고 있었는데, 다 데우기 전에 전자레인지가 갑자기 꺼졌다.",
+    "hypothesis": "그는 국 한 그릇을 다 데웠다.",
+    "label": "False"
+  },
+  {
+    "id": "A_043",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "장식하다",
+    "premise": "그녀는 케이크를 장식하고 있었는데, 재료가 떨어져 작업을 중단했다.",
+    "hypothesis": "그녀는 케이크를 다 장식했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_044",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "들이다",
+    "premise": "그들은 거실에 가구를 들이고 있었는데, 트럭이 고장 나 나머지 가구를 받지 못했다.",
+    "hypothesis": "그들은 거실에 가구를 다 들였다.",
+    "label": "False"
+  },
+  {
+    "id": "A_045",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "먹다",
+    "premise": "그는 밥 한 그릇을 먹고 있었는데, 급한 전화가 와서 절반만 먹고 자리를 떴다.",
+    "hypothesis": "그는 밥 한 그릇을 다 먹었다.",
+    "label": "False"
+  },
+  {
+    "id": "A_046",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "마시다",
+    "premise": "그녀는 물 한 잔을 마시고 있었는데, 누가 불러서 절반만 마신 채 내려놓았다.",
+    "hypothesis": "그녀는 물 한 잔을 다 마셨다.",
+    "label": "False"
+  },
+  {
+    "id": "A_047",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "읽다",
+    "premise": "그는 책 한 권을 읽고 있었는데, 다 읽기 전에 갑자기 소나기를 만나 책이 흠뻑 젖어 못 쓰게 되었다.",
+    "hypothesis": "그는 책 한 권을 다 읽었다.",
+    "label": "False"
+  },
+  {
+    "id": "A_048",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "태우다",
+    "premise": "그녀는 종이 한 장을 태우고 있었는데, 갑자기 소나기가 내려 불이 꺼졌다.",
+    "hypothesis": "그녀는 종이 한 장을 완전히 태웠다.",
+    "label": "False"
+  },
+  {
+    "id": "A_049",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "삼키다",
+    "premise": "그는 약 한 알을 삼키고 있었는데, 사레가 들려 뱉어냈다.",
+    "hypothesis": "그는 약 한 알을 다 삼켰다.",
+    "label": "False"
+  },
+  {
+    "id": "A_050",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "소모하다",
+    "premise": "차가 연료 1리터를 소모하고 있었는데, 1리터를 다 쓰기 전에 시동이 갑자기 꺼졌다.",
+    "hypothesis": "차가 연료 1리터를 전부 소모했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_051",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "부수다",
+    "premise": "그들은 모래성 하나를 부수고 있었는데, 이내 흥미를 잃어 그만두었다.",
+    "hypothesis": "그들은 모래성 하나를 모조리 부쉈다.",
+    "label": "False"
+  },
+  {
+    "id": "A_052",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "해결하다",
+    "premise": "그는 수학 문제 하나를 해결하고 있었는데, 시험 시간이 끝나 버렸다.",
+    "hypothesis": "그는 수학 문제 하나를 다 해결했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_053",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "벗기다",
+    "premise": "그녀는 사과 하나의 껍질을 벗기고 있었는데, 다 벗기기 전에 칼에 손을 베여 멈췄다.",
+    "hypothesis": "그녀는 사과 하나의 껍질을 다 벗겼다.",
+    "label": "False"
+  },
+  {
+    "id": "A_054",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "짓다",
+    "premise": "그는 정자를 짓고 있었는데, 폭풍이 몰아쳐 골조가 무너지는 바람에 공사를 중단했다.",
+    "hypothesis": "그는 정자를 다 지었다.",
+    "label": "False"
+  },
+  {
+    "id": "A_055",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "칠하다",
+    "premise": "그녀는 벽 하나를 칠하고 있었는데, 페인트가 다 떨어져 절반만 칠한 채로 멈췄다.",
+    "hypothesis": "그녀는 벽 하나를 다 칠했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_056",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "새기다",
+    "premise": "그는 목판에 글자를 새기고 있었는데, 도중에 끌이 부러져 멈췄다.",
+    "hypothesis": "그는 목판에 글자를 다 새겼다.",
+    "label": "False"
+  },
+  {
+    "id": "A_057",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "쓰다",
+    "premise": "그녀는 편지 한 통을 쓰고 있었는데, 펜의 잉크가 다 떨어져 도중에 멈췄다.",
+    "hypothesis": "그녀는 편지 한 통을 다 썼다.",
+    "label": "False"
+  },
+  {
+    "id": "A_058",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "뜨개질하다",
+    "premise": "그는 스웨터 한 벌을 뜨개질하고 있었는데, 실이 다 떨어져 도중에 멈췄다.",
+    "hypothesis": "그는 스웨터 한 벌을 다 뜨개질했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_059",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "작곡하다",
+    "premise": "그녀는 곡 하나를 작곡하고 있었는데, 영감이 갑자기 끊겨 도중에 멈췄다.",
+    "hypothesis": "그녀는 곡 하나를 다 작곡했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_060",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "그리다",
+    "premise": "그는 그림 한 점을 그리고 있었는데, 물감이 다 떨어져 도중에 멈췄다.",
+    "hypothesis": "그는 그림 한 점을 다 그렸다.",
+    "label": "False"
+  },
+  {
+    "id": "A_061",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "촬영하다",
+    "premise": "그들은 영화 한 편을 촬영하고 있었는데, 예산이 바닥나 촬영을 중단했다.",
+    "hypothesis": "그들은 영화 한 편을 다 촬영했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_062",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "코딩하다",
+    "premise": "그는 프로그램 하나를 코딩하고 있었는데, 컴퓨터가 고장 나 도중에 멈췄다.",
+    "hypothesis": "그는 프로그램 하나를 다 코딩했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_063",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "바느질하다",
+    "premise": "그녀는 옷 한 벌을 바느질하고 있었는데, 실이 부족해져서 도중에 멈췄다.",
+    "hypothesis": "그녀는 옷 한 벌을 다 바느질했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_064",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "조각하다",
+    "premise": "그는 조각상 하나를 조각하고 있었는데, 대리석에 금이 가 도중에 작업을 중단했다.",
+    "hypothesis": "그는 조각상 하나를 다 조각했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_065",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "짜다",
+    "premise": "그녀는 천 한 필을 짜고 있었는데, 실이 엉켜 도중에 멈췄다.",
+    "hypothesis": "그녀는 천 한 필을 다 짰다.",
+    "label": "False"
+  },
+  {
+    "id": "A_066",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "양조하다",
+    "premise": "그는 맥주 한 통을 양조하고 있었는데, 효모가 상해 도중에 작업을 중단했다.",
+    "hypothesis": "그는 맥주 한 통을 다 양조했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_067",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "위조하다",
+    "premise": "그녀는 졸업장 하나를 위조하고 있었는데, 갑자기 경찰이 들이닥쳐 도중에 멈췄다.",
+    "hypothesis": "그녀는 졸업장 하나를 다 위조했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_068",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "설계하다",
+    "premise": "그는 건물 하나를 설계하고 있었는데, 의뢰인이 계약을 취소해 도중에 작업을 중단했다.",
+    "hypothesis": "그는 건물 하나를 다 설계했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_069",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "증명하다",
+    "premise": "그녀는 가설 하나를 증명하고 있었는데, 논리적 오류를 발견해 도중에 멈췄다.",
+    "hypothesis": "그녀는 가설 하나를 다 증명했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_070",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "번역하다",
+    "premise": "그는 소설 한 권을 번역하고 있었는데, 책의 내용 일부가 유실되어 번역을 중단할 수밖에 없었다.",
+    "hypothesis": "그는 소설 한 권을 다 번역했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_071",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "건설하다",
+    "premise": "그들은 다리 하나를 건설하고 있었는데, 홍수로 자재가 유실되어 공사를 중단했다.",
+    "hypothesis": "그들은 다리 하나를 다 건설했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_072",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "발명하다",
+    "premise": "그녀는 기계 하나를 발명하고 있었는데, 연구비 지원이 끊겨 도중에 작업을 중단했다.",
+    "hypothesis": "그녀는 기계 하나를 다 발명했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_073",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "생산하다",
+    "premise": "공장이 자동차 100대를 생산하고 있었는데, 부품 공급이 끊겨 50대만 생산한 채로 멈췄다.",
+    "hypothesis": "공장이 자동차 100대를 생산했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_074",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "세우다",
+    "premise": "그는 여행 계획 하나를 세우고 있었는데, 갑자기 급한 일이 생겨 도중에 멈췄다.",
+    "hypothesis": "그는 여행 계획 하나를 다 세웠다.",
+    "label": "False"
+  },
+  {
+    "id": "A_075",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "계산하다",
+    "premise": "그녀는 총합을 계산하고 있었는데, 계산기 배터리가 나가 도중에 멈췄다.",
+    "hypothesis": "그녀는 총합을 다 계산했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_076",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "측정하다",
+    "premise": "그는 방의 넓이를 측정하고 있었는데, 준비한 줄자의 길이가 턱없이 짧아 측정을 중단했다.",
+    "hypothesis": "그는 방의 넓이를 다 측정했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_077",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "세다",
+    "premise": "그녀는 동전 100개를 세고 있었는데, 손이 미끄러져 동전을 덜 센 채로 쏟아버렸다.",
+    "hypothesis": "그녀는 동전 100개를 세었다.",
+    "label": "False"
+  },
+  {
+    "id": "A_078",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "받아쓰다",
+    "premise": "그는 문장 하나를 받아쓰고 있었는데, 연필심이 부러져 도중에 멈췄다.",
+    "hypothesis": "그는 문장 하나를 다 받아썼다.",
+    "label": "False"
+  },
+  {
+    "id": "A_079",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "다운로드하다",
+    "premise": "그녀는 파일 하나를 다운로드하고 있었는데, 인터넷이 끊겨 도중에 멈췄다.",
+    "hypothesis": "그녀는 파일 하나를 다 다운로드했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_080",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "업로드하다",
+    "premise": "그는 영상 하나를 업로드하고 있었는데, 서버 오류로 도중에 멈췄다.",
+    "hypothesis": "그는 영상 하나를 다 업로드했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_081",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "인쇄하다",
+    "premise": "그녀는 문서 한 부를 인쇄하고 있었는데, 프린터 용지가 다 떨어져 도중에 멈췄다.",
+    "hypothesis": "그녀는 문서 한 부를 다 인쇄했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_082",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "심다",
+    "premise": "그는 나무 한 그루를 심고 있었는데, 갑자기 소나기가 쏟아져 도중에 자리를 떴다.",
+    "hypothesis": "그는 나무 한 그루를 다 심었다.",
+    "label": "False"
+  },
+  {
+    "id": "A_083",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "수확하다",
+    "premise": "농부가 벼 한 마지기를 수확하고 있었는데, 기계가 고장 나 절반만 수확한 채로 멈췄다.",
+    "hypothesis": "농부가 벼 한 마지기를 다 수확했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_084",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "섞다",
+    "premise": "그녀는 재료 세 가지를 섞고 있었는데, 믹서기가 고장 나 도중에 멈췄다.",
+    "hypothesis": "그녀는 재료 세 가지를 다 섞었다.",
+    "label": "False"
+  },
+  {
+    "id": "A_085",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "갖추다",
+    "premise": "그들은 실험실에 장비를 갖추고 있었는데, 예산이 삭감되어 도중에 작업을 중단했다.",
+    "hypothesis": "그들은 실험실에 장비를 다 갖췄다.",
+    "label": "False"
+  },
+  {
+    "id": "A_086",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "설립하다",
+    "premise": "그는 회사 하나를 설립하고 있었는데, 투자자가 갑자기 발을 빼 도중에 절차를 중단했다.",
+    "hypothesis": "그는 회사 하나를 다 설립했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_087",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "형성하다",
+    "premise": "그녀는 새로운 습관을 형성하고 있었는데, 갑자기 바쁜 일이 생겨 도중에 그만두었다.",
+    "hypothesis": "그녀는 새로운 습관을 다 형성했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_088",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "빚다",
+    "premise": "그는 만두 100개를 빚고 있었는데, 밀가루 반죽이 다 떨어져 50개만 빚은 채로 멈췄다.",
+    "hypothesis": "그는 만두 100개를 빚었다.",
+    "label": "False"
+  },
+  {
+    "id": "A_089",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "조립하다",
+    "premise": "그녀는 가구 하나를 조립하고 있었는데, 나사가 부족해 도중에 멈췄다.",
+    "hypothesis": "그녀는 가구 하나를 다 조립했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_090",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "모으다",
+    "premise": "그는 동전 100개를 모으고 있었는데, 갑자기 이사를 가게 되어 50개만 모은 채로 그만두었다.",
+    "hypothesis": "그는 동전 100개를 모았다.",
+    "label": "False"
+  },
+  {
+    "id": "A_091",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "수집하다",
+    "premise": "그녀는 우표 50장을 수집하고 있었는데, 갑자기 취미를 그만두게 되어 30장만 모은 채로 중단했다.",
+    "hypothesis": "그녀는 우표 50장을 수집했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_092",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "따다",
+    "premise": "그는 사과 10개를 따고 있었는데, 사다리가 부러져 5개만 딴 채로 멈췄다.",
+    "hypothesis": "그는 사과 10개를 땄다.",
+    "label": "False"
+  },
+  {
+    "id": "A_093",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "오르다",
+    "premise": "그는 산 정상에 오르고 있었는데, 갑자기 폭설이 내려 더 이상 오르지 못하고 멈췄다.",
+    "hypothesis": "그는 산 정상에 올랐다.",
+    "label": "False"
+  },
+  {
+    "id": "A_094",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "건너다",
+    "premise": "그녀는 강을 건너고 있었는데, 다리가 갑자기 무너져 중간에서 멈춰 섰다.",
+    "hypothesis": "그녀는 강을 건넜다.",
+    "label": "False"
+  },
+  {
+    "id": "A_095",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "등산하다",
+    "premise": "그는 정상까지 등산하고 있었는데, 길이 산사태로 막혀 도중에 멈췄다.",
+    "hypothesis": "그는 정상까지 등산했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_096",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "날아가다",
+    "premise": "비행기가 서울까지 날아가고 있었는데, 갑자기 엔진에 문제가 생겨 도중에 가까운 공항에 비상 착륙했다.",
+    "hypothesis": "비행기가 서울까지 날아갔다.",
+    "label": "False"
+  },
+  {
+    "id": "A_097",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "배달하다",
+    "premise": "그는 피자 한 판을 배달하고 있었는데, 오토바이가 고장 나 도중에 멈췄다.",
+    "hypothesis": "그는 피자 한 판을 배달했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_098",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "도착하다",
+    "premise": "비행기가 공항에 도착하고 있었는데, 갑자기 기체 결함이 발견되어 목적지에 이르기 전에 다른 공항에 비상 착륙했다.",
+    "hypothesis": "비행기가 목적지 공항에 도착했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_099",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "입장하다",
+    "premise": "그녀는 경기장에 입장하고 있었는데, 표 확인 과정에서 문제가 생겨 입구에서 제지당했다.",
+    "hypothesis": "그녀는 경기장에 입장했다.",
+    "label": "False"
+  },
+  {
+    "id": "A_100",
+    "group": "A_Interrupted_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "도달하다",
+    "premise": "그는 결승지점에 도달하고 있었는데, 다리에 쥐가 나서 중도에 멈춰섰다.",
+    "hypothesis": "그는 결승지점에 도달했다.",
+    "label": "False"
+  },
+  {
+    "id": "B_001",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "달리다",
+    "premise": "그는 운동장에서 달리고 있었는데, 발을 헛디뎌 멈췄다.",
+    "hypothesis": "그는 달렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_002",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "헤엄치다",
+    "premise": "그녀는 바다에서 헤엄치고 있었는데, 파도가 밀려와 멈췄다.",
+    "hypothesis": "그녀는 헤엄쳤다.",
+    "label": "True"
+  },
+  {
+    "id": "B_003",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "걷다",
+    "premise": "그는 공원에서 걷고 있었는데, 비가 쏟아져 멈췄다.",
+    "hypothesis": "그는 걸었다.",
+    "label": "True"
+  },
+  {
+    "id": "B_004",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "밀다",
+    "premise": "그녀는 카트를 밀고 있었는데, 손을 놓쳐 멈췄다.",
+    "hypothesis": "그녀는 카트를 밀었다.",
+    "label": "True"
+  },
+  {
+    "id": "B_005",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "재잘거리다",
+    "premise": "아이들이 재잘거리고 있었는데, 선생님이 들어와 멈췄다.",
+    "hypothesis": "아이들이 재잘거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_006",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "춤추다",
+    "premise": "그녀는 무대에서 춤추고 있었는데, 음악이 갑자기 꺼졌다.",
+    "hypothesis": "그녀는 춤췄다.",
+    "label": "True"
+  },
+  {
+    "id": "B_007",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "노래하다",
+    "premise": "그는 무대에서 노래하고 있었는데, 마이크가 꺼졌다.",
+    "hypothesis": "그는 노래했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_008",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "웃다",
+    "premise": "아이가 웃고 있었는데, 넘어져서 울음을 터뜨렸다.",
+    "hypothesis": "아이가 웃었다.",
+    "label": "True"
+  },
+  {
+    "id": "B_009",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "울다",
+    "premise": "아이가 울고 있었는데, 사탕을 받고 그쳤다.",
+    "hypothesis": "아이가 울었다.",
+    "label": "True"
+  },
+  {
+    "id": "B_010",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "소리치다",
+    "premise": "그는 소리치고 있었는데, 목이 쉬어 멈췄다.",
+    "hypothesis": "그는 소리쳤다.",
+    "label": "True"
+  },
+  {
+    "id": "B_011",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "놀다",
+    "premise": "아이들이 놀고 있었는데, 저녁 먹으라는 소리에 멈췄다.",
+    "hypothesis": "아이들이 놀았다.",
+    "label": "True"
+  },
+  {
+    "id": "B_012",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "배회하다",
+    "premise": "그는 거리를 배회하고 있었는데, 갑자기 비가 내려 건물 안으로 들어갔다.",
+    "hypothesis": "그는 배회했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_013",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "논의하다",
+    "premise": "그들은 여러 문제에 대해 논의하고 있었는데, 시간이 다 되어 회의가 끝났다.",
+    "hypothesis": "그들은 논의했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_014",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "기다리다",
+    "premise": "그는 버스를 기다리고 있었는데, 너무 늦어져 포기했다.",
+    "hypothesis": "그는 기다렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_015",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "공부하다",
+    "premise": "그녀는 공부하고 있었는데, 졸음이 쏟아져 그만뒀다.",
+    "hypothesis": "그녀는 공부했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_016",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "일하다",
+    "premise": "그는 사무실에서 일하고 있었는데, 정전이 되어 멈췄다.",
+    "hypothesis": "그는 일했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_017",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "운동하다",
+    "premise": "그녀는 헬스장에서 운동하고 있었는데, 다리에 쥐가 나서 멈췄다.",
+    "hypothesis": "그녀는 운동했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_018",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "둘러보다",
+    "premise": "그는 매장을 둘러보고 있었는데, 전화가 와서 나갔다.",
+    "hypothesis": "그는 둘러봤다.",
+    "label": "True"
+  },
+  {
+    "id": "B_019",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "떠다니다",
+    "premise": "나뭇잎이 물 위에 떠다니고 있었는데, 물살에 휩쓸려 가라앉았다.",
+    "hypothesis": "나뭇잎이 떠다녔다.",
+    "label": "True"
+  },
+  {
+    "id": "B_020",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "활공하다",
+    "premise": "새가 하늘에서 활공하고 있었는데, 바람이 갑자기 멈췄다.",
+    "hypothesis": "새가 활공했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_021",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "미끄러지다",
+    "premise": "스케이터가 얼음 위를 미끄러지고 있었는데, 넘어졌다.",
+    "hypothesis": "스케이터가 미끄러졌다.",
+    "label": "True"
+  },
+  {
+    "id": "B_022",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "구르다",
+    "premise": "공이 언덕 아래로 구르고 있었는데, 나무에 부딪혀 멈췄다.",
+    "hypothesis": "공이 굴렀다.",
+    "label": "True"
+  },
+  {
+    "id": "B_023",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "뒤척이다",
+    "premise": "그는 밤새 뒤척이고 있었는데, 알람이 울려 일어났다.",
+    "hypothesis": "그는 뒤척였다.",
+    "label": "True"
+  },
+  {
+    "id": "B_024",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "꿈꾸다",
+    "premise": "그녀는 꿈꾸고 있었는데, 알람 소리에 깼다.",
+    "hypothesis": "그녀는 꿈꿨다.",
+    "label": "True"
+  },
+  {
+    "id": "B_025",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "명상하다",
+    "premise": "그는 명상하고 있었는데, 전화벨이 울려 멈췄다.",
+    "hypothesis": "그는 명상했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_026",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "떨다",
+    "premise": "나뭇가지가 바람에 떨고 있었는데, 갑자기 바람이 멈췄다.",
+    "hypothesis": "나뭇가지가 떨었다.",
+    "label": "True"
+  },
+  {
+    "id": "B_027",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "허덕이다",
+    "premise": "그는 운동장에서 허덕이고 있었는데, 갑자기 소나기가 쏟아져 안으로 뛰어들어갔다.",
+    "hypothesis": "그는 허덕였다.",
+    "label": "True"
+  },
+  {
+    "id": "B_028",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "출혈하다",
+    "premise": "환자가 출혈하고 있었는데, 응급처치를 받아 곧 멈췄다.",
+    "hypothesis": "환자가 출혈했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_029",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "빛나다",
+    "premise": "가로등이 빛나고 있었는데, 정전이 되어 갑자기 꺼졌다.",
+    "hypothesis": "가로등이 빛났다.",
+    "label": "True"
+  },
+  {
+    "id": "B_030",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "진동하다",
+    "premise": "휴대폰이 책상 위에서 진동하고 있었는데, 배터리가 다 되어 꺼졌다.",
+    "hypothesis": "휴대폰이 진동했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_031",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "흥얼거리다",
+    "premise": "그녀는 흥얼거리고 있었는데, 누가 불러서 멈췄다.",
+    "hypothesis": "그녀는 흥얼거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_032",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "포효하다",
+    "premise": "사자가 계속 포효하고 있었는데, 사육사가 다가오자 멈췄다.",
+    "hypothesis": "사자가 포효했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_033",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "짖다",
+    "premise": "개가 계속 짖고 있었는데, 주인이 다가오자 멈췄다.",
+    "hypothesis": "개가 짖었다.",
+    "label": "True"
+  },
+  {
+    "id": "B_034",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "응시하다",
+    "premise": "그는 창밖을 응시하고 있었는데, 누가 불러서 시선을 돌렸다.",
+    "hypothesis": "그는 창밖을 응시했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_035",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "경청하다",
+    "premise": "그녀는 강연을 경청하고 있었는데, 갑자기 정전이 되었다.",
+    "hypothesis": "그녀는 경청했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_036",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "지켜보다",
+    "premise": "그는 아이들을 지켜보고 있었는데, 전화가 와서 자리를 떴다.",
+    "hypothesis": "그는 아이들을 지켜봤다.",
+    "label": "True"
+  },
+  {
+    "id": "B_037",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "쓰다듬다",
+    "premise": "그녀는 고양이를 쓰다듬고 있었는데, 고양이가 갑자기 뛰쳐나갔다.",
+    "hypothesis": "그녀는 쓰다듬었다.",
+    "label": "True"
+  },
+  {
+    "id": "B_038",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "싸우다",
+    "premise": "그들은 싸우고 있었는데, 선생님이 들어와 멈췄다.",
+    "hypothesis": "그들은 싸웠다.",
+    "label": "True"
+  },
+  {
+    "id": "B_039",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "실랑이하다",
+    "premise": "그들은 실랑이하고 있었는데, 경비원이 다가와 멈췄다.",
+    "hypothesis": "그들은 실랑이했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_040",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "씨름하다",
+    "premise": "선수들이 씨름하고 있었는데, 심판이 호루라기를 불어 멈췄다.",
+    "hypothesis": "선수들이 씨름했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_041",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "첨벙거리다",
+    "premise": "아이가 웅덩이에서 첨벙거리고 있었는데, 엄마가 불러서 멈췄다.",
+    "hypothesis": "아이가 첨벙거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_042",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "쇼핑하다",
+    "premise": "그는 쇼핑하고 있었는데, 매장이 문을 닫아 나왔다.",
+    "hypothesis": "그는 쇼핑했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_043",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "순찰하다",
+    "premise": "경비원이 순찰하고 있었는데, 무전이 와서 멈췄다.",
+    "hypothesis": "경비원이 순찰했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_044",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "쫓다",
+    "premise": "경찰이 도둑을 쫓고 있었는데, 시야에서 놓쳤다.",
+    "hypothesis": "경찰이 쫓았다.",
+    "label": "True"
+  },
+  {
+    "id": "B_045",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "조깅하다",
+    "premise": "그는 공원에서 조깅하고 있었는데, 다리를 다쳐 멈췄다.",
+    "hypothesis": "그는 조깅했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_046",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "행진하다",
+    "premise": "군인들이 행진하고 있었는데, 갑자기 비가 쏟아졌다.",
+    "hypothesis": "군인들이 행진했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_047",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "활강하다",
+    "premise": "그녀는 슬로프를 활강하고 있었는데, 넘어져 멈췄다.",
+    "hypothesis": "그녀는 활강했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_048",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "서핑하다",
+    "premise": "그는 서핑하고 있었는데, 파도가 잦아들어 멈췄다.",
+    "hypothesis": "그는 서핑했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_049",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "질주하다",
+    "premise": "그녀는 초원을 질주하고 있었는데, 놀란 말이 갑자기 멈춰섰다.",
+    "hypothesis": "그녀는 질주했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_050",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "빈둥거리다",
+    "premise": "그는 집에서 빈둥거리고 있었는데, 전화가 울려 일어났다.",
+    "hypothesis": "그는 빈둥거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_051",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "훌쩍이다",
+    "premise": "그녀는 훌쩍이고 있었는데, 친구가 위로해주자 진정됐다.",
+    "hypothesis": "그녀는 훌쩍였다.",
+    "label": "True"
+  },
+  {
+    "id": "B_052",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "찡그리다",
+    "premise": "그는 계속 찡그리고 있었는데, 두통이 가라앉자 표정이 풀렸다.",
+    "hypothesis": "그는 찡그렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_053",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "절규하다",
+    "premise": "그녀는 절규하고 있었는데, 누군가 달려와 진정시켰다.",
+    "hypothesis": "그녀는 절규했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_054",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "울부짖다",
+    "premise": "늑대가 울부짖고 있었는데, 사냥꾼이 다가오자 멈췄다.",
+    "hypothesis": "늑대가 울부짖었다.",
+    "label": "True"
+  },
+  {
+    "id": "B_055",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "속삭이다",
+    "premise": "그는 속삭이고 있었는데, 선생님이 다가와 멈췄다.",
+    "hypothesis": "그는 속삭였다.",
+    "label": "True"
+  },
+  {
+    "id": "B_056",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "중얼거리다",
+    "premise": "그녀는 중얼거리고 있었는데, 누가 물어봐서 멈췄다.",
+    "hypothesis": "그녀는 중얼거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_057",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "이야기하다",
+    "premise": "그들은 이야기하고 있었는데, 수업 종이 울려 멈췄다.",
+    "hypothesis": "그들은 이야기했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_058",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "말하다",
+    "premise": "그는 말하고 있었는데, 전화가 걸려와 멈췄다.",
+    "hypothesis": "그는 말했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_059",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "험담하다",
+    "premise": "그들은 험담하고 있었는데, 당사자가 나타나 멈췄다.",
+    "hypothesis": "그들은 험담했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_060",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "놀리다",
+    "premise": "그는 동생을 놀리고 있었는데, 엄마가 혼내서 멈췄다.",
+    "hypothesis": "그는 놀렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_061",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "돕다",
+    "premise": "그녀는 친구를 돕고 있었는데, 갑자기 급한 일이 생겨 자리를 떴다.",
+    "hypothesis": "그녀는 도왔다.",
+    "label": "True"
+  },
+  {
+    "id": "B_062",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "시중들다",
+    "premise": "종업원이 손님을 시중들고 있었는데, 다른 손님이 불러서 자리를 떴다.",
+    "hypothesis": "종업원이 시중들었다.",
+    "label": "True"
+  },
+  {
+    "id": "B_063",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "통치하다",
+    "premise": "그 왕은 나라를 통치하고 있었는데, 전쟁이 일어나 왕위에서 물러났다.",
+    "hypothesis": "그 왕은 통치했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_064",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "살다",
+    "premise": "그는 그 도시에서 살고 있었는데, 사정이 생겨 이사했다.",
+    "hypothesis": "그는 살았다.",
+    "label": "True"
+  },
+  {
+    "id": "B_065",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "호흡하다",
+    "premise": "그는 호흡하고 있었는데, 갑자기 사레가 들려 기침했다.",
+    "hypothesis": "그는 호흡했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_066",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "기침하다",
+    "premise": "그는 계속 기침하고 있었는데, 물을 마시자 가라앉았다.",
+    "hypothesis": "그는 기침했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_067",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "하품하다",
+    "premise": "그녀는 계속 하품하고 있었는데, 커피를 마시자 멈췄다.",
+    "hypothesis": "그녀는 하품했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_068",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "깜빡이다",
+    "premise": "그의 눈이 계속 깜빡이고 있었는데, 안약을 넣자 멈췄다.",
+    "hypothesis": "그의 눈이 깜빡였다.",
+    "label": "True"
+  },
+  {
+    "id": "B_069",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "끄덕이다",
+    "premise": "그녀는 계속 끄덕이고 있었는데, 이야기가 끝나 멈췄다.",
+    "hypothesis": "그녀는 끄덕였다.",
+    "label": "True"
+  },
+  {
+    "id": "B_070",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "박수치다",
+    "premise": "관객들이 계속 박수치고 있었는데, 공연자가 퇴장하자 멈췄다.",
+    "hypothesis": "관객들이 박수쳤다.",
+    "label": "True"
+  },
+  {
+    "id": "B_071",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "허우적거리다",
+    "premise": "아이가 물속에서 허우적거리고 있었는데, 구조대원이 곧 건져냈다.",
+    "hypothesis": "아이가 허우적거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_072",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "씰룩거리다",
+    "premise": "그의 입꼬리가 씰룩거리고 있었는데, 헛기침을 하자 멈췄다.",
+    "hypothesis": "그의 입꼬리가 씰룩거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_073",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "쑤시다",
+    "premise": "다리가 계속 쑤시고 있었는데, 진통제를 먹자 통증이 가라앉았다.",
+    "hypothesis": "다리가 쑤셨다.",
+    "label": "True"
+  },
+  {
+    "id": "B_074",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "근질거리다",
+    "premise": "팔이 근질거리고 있었는데, 연고를 바르자 가라앉았다.",
+    "hypothesis": "팔이 근질거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_075",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "일렁이다",
+    "premise": "촛불이 일렁이고 있었는데, 바람이 불어 꺼졌다.",
+    "hypothesis": "촛불이 일렁였다.",
+    "label": "True"
+  },
+  {
+    "id": "B_076",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "반짝이다",
+    "premise": "별이 밤하늘에서 반짝이고 있었는데, 구름이 갑자기 뒤덮었다.",
+    "hypothesis": "별이 반짝였다.",
+    "label": "True"
+  },
+  {
+    "id": "B_077",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "서성이다",
+    "premise": "그는 복도에서 서성이고 있었는데, 이름이 불려 안으로 들어갔다.",
+    "hypothesis": "그는 서성였다.",
+    "label": "True"
+  },
+  {
+    "id": "B_078",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "흥정하다",
+    "premise": "그녀는 상인과 흥정하고 있었는데, 다른 손님이 끼어들어 멈췄다.",
+    "hypothesis": "그녀는 흥정을 했다.",
+    "label": "True",
+    "note": "*성공 여부와 무관하게 행위 자체를 했다는 뜻으로만 판단"
+  },
+  {
+    "id": "B_079",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "낙서하다",
+    "premise": "아이가 노트에 낙서하고 있었는데, 선생님이 다가와 멈췄다.",
+    "hypothesis": "아이가 낙서했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_080",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "자라다",
+    "premise": "그 나무는 1년 동안 자라고 있었는데, 태풍에 쓰러졌다.",
+    "hypothesis": "그 나무는 전보다 자랐다.",
+    "label": "True"
+  },
+  {
+    "id": "B_081",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "방황하다",
+    "premise": "그는 진로에 대해 방황하고 있었는데, 좋은 조언을 듣고 마음을 정했다.",
+    "hypothesis": "그는 방황했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_082",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "돌다",
+    "premise": "팽이가 돌고 있었는데, 갑자기 멈춰 섰다.",
+    "hypothesis": "팽이가 돌았다.",
+    "label": "True"
+  },
+  {
+    "id": "B_083",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "흔들리다",
+    "premise": "나뭇가지가 흔들리고 있었는데, 바람이 잦아들어 멈췄다.",
+    "hypothesis": "나뭇가지가 흔들렸다.",
+    "label": "True"
+  },
+  {
+    "id": "B_084",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "여행하다",
+    "premise": "그녀는 유럽을 여행하고 있었는데, 여권을 잃어버려 귀국했다.",
+    "hypothesis": "그녀는 여행했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_085",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "통근하다",
+    "premise": "그는 지하철로 통근하고 있었는데, 회사를 그만두게 되었다.",
+    "hypothesis": "그는 통근했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_086",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "스트레칭하다",
+    "premise": "그는 스트레칭하고 있었는데, 전화가 울려 멈췄다.",
+    "hypothesis": "그는 스트레칭했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_087",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "딸꾹질하다",
+    "premise": "그는 계속 딸꾹질하고 있었는데, 물을 마시자 멈췄다.",
+    "hypothesis": "그는 딸꾹질했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_088",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "흐르다",
+    "premise": "강물이 흐르고 있었는데, 댐이 갑자기 막혔다.",
+    "hypothesis": "강물이 흘렀다.",
+    "label": "True"
+  },
+  {
+    "id": "B_089",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "비가 오다",
+    "premise": "비가 오고 있었는데, 갑자기 그쳤다.",
+    "hypothesis": "비가 왔다.",
+    "label": "True"
+  },
+  {
+    "id": "B_090",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "눈이 오다",
+    "premise": "눈이 오고 있었는데, 해가 나면서 그쳤다.",
+    "hypothesis": "눈이 왔다.",
+    "label": "True"
+  },
+  {
+    "id": "B_091",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "바람이 불다",
+    "premise": "바람이 불고 있었는데, 갑자기 잦아들었다.",
+    "hypothesis": "바람이 불었다.",
+    "label": "True"
+  },
+  {
+    "id": "B_092",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "졸다",
+    "premise": "그는 수업 중에 졸고 있었는데, 선생님이 이름을 부르자 깨어났다.",
+    "hypothesis": "그는 졸았다.",
+    "label": "True"
+  },
+  {
+    "id": "B_093",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "사냥하다",
+    "premise": "사자가 사냥을 하고 있었는데, 먹잇감이 도망쳐 버렸다.",
+    "hypothesis": "사자가 사냥을 했다.",
+    "label": "True",
+    "note": "*성공 여부와 무관하게 행위 자체를 했다는 뜻으로만 판단"
+  },
+  {
+    "id": "B_094",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "낚시하다",
+    "premise": "그는 낚시하고 있었는데, 비가 쏟아져 자리를 떴다.",
+    "hypothesis": "그는 낚시했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_095",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "요리하다",
+    "premise": "그녀는 요리하고 있었는데, 손님이 일찍 도착해 멈췄다.",
+    "hypothesis": "그녀는 요리를 했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_096",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "흡연하다",
+    "premise": "그는 흡연하고 있었는데, 금연 구역이라는 말을 듣고 껐다.",
+    "hypothesis": "그는 흡연했다.",
+    "label": "True"
+  },
+  {
+    "id": "B_097",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "홀짝이다",
+    "premise": "그녀는 커피를 홀짝이고 있었는데, 전화가 와서 내려놓았다.",
+    "hypothesis": "그녀는 커피를 홀짝였다.",
+    "label": "True"
+  },
+  {
+    "id": "B_098",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "씹다",
+    "premise": "그는 껌을 씹고 있었는데, 선생님이 다가와 뱉었다.",
+    "hypothesis": "그는 껌을 씹었다.",
+    "label": "True"
+  },
+  {
+    "id": "B_099",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "문지르다",
+    "premise": "그녀는 손을 문지르고 있었는데, 추위가 가시자 멈췄다.",
+    "hypothesis": "그녀는 손을 문질렀다.",
+    "label": "True"
+  },
+  {
+    "id": "B_100",
+    "group": "B_Interrupted_Activity",
+    "verb_class": "Activity",
+    "verb": "긁다",
+    "premise": "그는 팔을 긁고 있었는데, 가려움이 가라앉아 멈췄다.",
+    "hypothesis": "그는 팔을 긁었다.",
+    "label": "True"
+  },
+  {
+    "id": "C_001",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "고치다",
+    "premise": "그는 고장 난 시계를 고치고 있었다.",
+    "hypothesis": "그는 고장 난 시계를 다 고쳤다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_002",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "채우다",
+    "premise": "그녀는 컵에 물을 채우고 있었다.",
+    "hypothesis": "그녀는 컵에 물을 가득 채웠다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_003",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "청소하다",
+    "premise": "그는 방 하나를 청소하고 있었다.",
+    "hypothesis": "그는 방 하나 전체를 청소했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_004",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "수리하다",
+    "premise": "정비사가 차 한 대를 수리하고 있었다.",
+    "hypothesis": "정비사가 차 한 대를 다 수리했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_005",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "비우다",
+    "premise": "그는 서랍을 비우고 있었다.",
+    "hypothesis": "그는 서랍을 다 비웠다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_006",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "말리다",
+    "premise": "그녀는 빨래를 말리고 있었다.",
+    "hypothesis": "그녀는 빨래를 완전히 말렸다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_007",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "세탁하다",
+    "premise": "그는 옷 한 벌을 세탁하고 있었다.",
+    "hypothesis": "그는 옷 한 벌을 다 세탁했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_008",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "다림질하다",
+    "premise": "그녀는 셔츠 한 장을 다림질하고 있었다.",
+    "hypothesis": "그녀는 셔츠 한 장을 다 다림질했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_009",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "깎다",
+    "premise": "그는 연필을 깎고 있었다.",
+    "hypothesis": "그는 연필을 다 깎았다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_010",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "부풀리다",
+    "premise": "그는 풍선을 최대한 부풀리고 있었다.",
+    "hypothesis": "그는 풍선을 최대한 다 부풀렸다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_011",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "얼리다",
+    "premise": "그녀는 물을 얼리고 있었다.",
+    "hypothesis": "그녀는 물을 다 얼렸다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_012",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "녹이다",
+    "premise": "그는 버터를 녹이고 있었다.",
+    "hypothesis": "그는 버터를 다 녹였다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_013",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "봉합하다",
+    "premise": "의사가 상처를 봉합하고 있었다.",
+    "hypothesis": "의사가 상처를 다 봉합했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_014",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "개조하다",
+    "premise": "그들은 집을 개조하고 있었다.",
+    "hypothesis": "그들은 집을 다 개조했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_015",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "철거하다",
+    "premise": "인부들이 건물을 철거하고 있었다.",
+    "hypothesis": "인부들이 건물을 다 철거했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_016",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "파다",
+    "premise": "그는 구덩이 하나를 파고 있었다.",
+    "hypothesis": "그는 구덩이 하나를 다 팠다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_017",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "싸다",
+    "premise": "그녀는 짐을 싸고 있었다.",
+    "hypothesis": "그녀는 짐을 다 쌌다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_018",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "풀다",
+    "premise": "그는 매듭 하나를 풀고 있었다.",
+    "hypothesis": "그는 매듭 하나를 다 풀었다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_019",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "펴다",
+    "premise": "그녀는 구겨진 종이를 펴고 있었다.",
+    "hypothesis": "그녀는 구겨진 종이를 다 폈다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_020",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "해독하다",
+    "premise": "그는 암호 하나를 해독하고 있었다.",
+    "hypothesis": "그는 암호 하나를 다 해독했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_021",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "정리하다",
+    "premise": "그는 책상 하나를 정리하고 있었다.",
+    "hypothesis": "그는 책상 하나를 다 정리했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_022",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "지우다",
+    "premise": "그녀는 칠판을 지우고 있었다.",
+    "hypothesis": "그녀는 칠판을 전부 지웠다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_023",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "수정하다",
+    "premise": "그는 보고서를 수정하고 있었다.",
+    "hypothesis": "그는 보고서를 다 수정했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_024",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "설치하다",
+    "premise": "그녀는 프로그램을 설치하고 있었다.",
+    "hypothesis": "그녀는 프로그램을 다 설치했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_025",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "포장하다",
+    "premise": "그는 선물을 포장하고 있었다.",
+    "hypothesis": "그는 선물을 다 포장했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_026",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "제거하다",
+    "premise": "그녀는 자전거의 녹을 제거하고 있었다.",
+    "hypothesis": "그녀는 자전거의 녹을 다 제거했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_027",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "메우다",
+    "premise": "그는 벽의 틈을 메우고 있었다.",
+    "hypothesis": "그는 벽의 틈을 다 메웠다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_028",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "구조하다",
+    "premise": "소방관이 아이를 구조하고 있었다.",
+    "hypothesis": "소방관이 아이를 다 구조했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_029",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "구해내다",
+    "premise": "그는 물에 빠진 사람을 구해내고 있었다.",
+    "hypothesis": "그는 물에 빠진 사람을 다 구해냈다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_030",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "다듬다",
+    "premise": "그는 잔디밭을 다듬고 있었다.",
+    "hypothesis": "그는 잔디밭 전체를 다듬었다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_031",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "쓸다",
+    "premise": "그녀는 바닥을 쓸고 있었다.",
+    "hypothesis": "그녀는 바닥 전체를 쓸었다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_032",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "닦다",
+    "premise": "그는 복도를 대걸레로 닦고 있었다.",
+    "hypothesis": "그는 복도 전체를 대걸레로 닦았다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_033",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "광내다",
+    "premise": "그녀는 구두를 광내고 있었다.",
+    "hypothesis": "그녀는 구두를 다 광냈다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_034",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "사포질하다",
+    "premise": "그는 책상을 사포질하고 있었다.",
+    "hypothesis": "그는 책상 전체를 사포질했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_035",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "없애다",
+    "premise": "그녀는 욕실의 곰팡이를 없애고 있었다.",
+    "hypothesis": "그녀는 욕실의 곰팡이를 다 없앴다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_036",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "자르다",
+    "premise": "그는 종이 한 장을 자르고 있었다.",
+    "hypothesis": "그는 종이 한 장을 전부 잘랐다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_037",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "썰다",
+    "premise": "그녀는 양파 하나를 얇게 썰고 있었다.",
+    "hypothesis": "그녀는 양파 하나를 얇게 다 썰었다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_038",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "다지다",
+    "premise": "그는 마늘을 다지고 있었다.",
+    "hypothesis": "그는 마늘을 다 다졌다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_039",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "끓이다",
+    "premise": "그녀는 물을 끓이고 있었다.",
+    "hypothesis": "그녀는 물을 다 끓였다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_040",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "튀기다",
+    "premise": "그는 감자를 튀기고 있었다.",
+    "hypothesis": "그는 감자를 다 튀겼다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_041",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "굽다",
+    "premise": "그녀는 고기를 다 익을 때까지 굽고 있었다.",
+    "hypothesis": "그녀는 고기를 다 구웠다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_042",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "데우다",
+    "premise": "그는 국 한 그릇을 데우고 있었다.",
+    "hypothesis": "그는 국 한 그릇을 다 데웠다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_043",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "장식하다",
+    "premise": "그녀는 케이크를 장식하고 있었다.",
+    "hypothesis": "그녀는 케이크를 다 장식했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_044",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Change_of_State",
+    "verb": "들이다",
+    "premise": "그들은 거실에 가구를 들이고 있었다.",
+    "hypothesis": "그들은 거실에 가구를 다 들였다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_045",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "먹다",
+    "premise": "그는 밥 한 그릇을 먹고 있었다.",
+    "hypothesis": "그는 밥 한 그릇을 다 먹었다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_046",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "마시다",
+    "premise": "그녀는 물 한 잔을 마시고 있었다.",
+    "hypothesis": "그녀는 물 한 잔을 다 마셨다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_047",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "읽다",
+    "premise": "그는 책 한 권을 읽고 있었다.",
+    "hypothesis": "그는 책 한 권을 다 읽었다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_048",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "태우다",
+    "premise": "그녀는 종이 한 장을 태우고 있었다.",
+    "hypothesis": "그녀는 종이 한 장을 완전히 태웠다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_049",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "삼키다",
+    "premise": "그는 약 한 알을 삼키고 있었다.",
+    "hypothesis": "그는 약 한 알을 다 삼켰다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_050",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "소모하다",
+    "premise": "차가 연료 1리터를 소모하고 있었다.",
+    "hypothesis": "차가 연료 1리터를 전부 소모했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_051",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "부수다",
+    "premise": "그들은 모래성 하나를 부수고 있었다.",
+    "hypothesis": "그들은 모래성 하나를 모조리 부쉈다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_052",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "해결하다",
+    "premise": "그는 수학 문제 하나를 해결하고 있었다.",
+    "hypothesis": "그는 수학 문제 하나를 다 해결했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_053",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Consumption",
+    "verb": "벗기다",
+    "premise": "그녀는 사과 하나의 껍질을 벗기고 있었다.",
+    "hypothesis": "그녀는 사과 하나의 껍질을 다 벗겼다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_054",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "짓다",
+    "premise": "그는 정자를 짓고 있었다.",
+    "hypothesis": "그는 정자를 다 지었다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_055",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "칠하다",
+    "premise": "그녀는 벽 하나를 칠하고 있었다.",
+    "hypothesis": "그녀는 벽 하나를 다 칠했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_056",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "새기다",
+    "premise": "그는 목판에 글자를 새기고 있었다.",
+    "hypothesis": "그는 목판에 글자를 다 새겼다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_057",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "쓰다",
+    "premise": "그녀는 편지 한 통을 쓰고 있었다.",
+    "hypothesis": "그녀는 편지 한 통을 다 썼다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_058",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "뜨개질하다",
+    "premise": "그는 스웨터 한 벌을 뜨개질하고 있었다.",
+    "hypothesis": "그는 스웨터 한 벌을 다 뜨개질했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_059",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "작곡하다",
+    "premise": "그녀는 곡 하나를 작곡하고 있었다.",
+    "hypothesis": "그녀는 곡 하나를 다 작곡했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_060",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "그리다",
+    "premise": "그는 그림 한 점을 그리고 있었다.",
+    "hypothesis": "그는 그림 한 점을 다 그렸다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_061",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "촬영하다",
+    "premise": "그들은 영화 한 편을 촬영하고 있었다.",
+    "hypothesis": "그들은 영화 한 편을 다 촬영했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_062",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "코딩하다",
+    "premise": "그는 프로그램 하나를 코딩하고 있었다.",
+    "hypothesis": "그는 프로그램 하나를 다 코딩했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_063",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "바느질하다",
+    "premise": "그녀는 옷 한 벌을 바느질하고 있었다.",
+    "hypothesis": "그녀는 옷 한 벌을 다 바느질했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_064",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "조각하다",
+    "premise": "그는 조각상 하나를 조각하고 있었다.",
+    "hypothesis": "그는 조각상 하나를 다 조각했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_065",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "짜다",
+    "premise": "그녀는 천 한 필을 짜고 있었다.",
+    "hypothesis": "그녀는 천 한 필을 다 짰다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_066",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "양조하다",
+    "premise": "그는 맥주 한 통을 양조하고 있었다.",
+    "hypothesis": "그는 맥주 한 통을 다 양조했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_067",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "위조하다",
+    "premise": "그녀는 졸업장 하나를 위조하고 있었다.",
+    "hypothesis": "그녀는 졸업장 하나를 다 위조했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_068",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "설계하다",
+    "premise": "그는 건물 하나를 설계하고 있었다.",
+    "hypothesis": "그는 건물 하나를 다 설계했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_069",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "증명하다",
+    "premise": "그녀는 가설 하나를 증명하고 있었다.",
+    "hypothesis": "그녀는 가설 하나를 다 증명했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_070",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "번역하다",
+    "premise": "그는 소설 한 권을 번역하고 있었다.",
+    "hypothesis": "그는 소설 한 권을 다 번역했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_071",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "건설하다",
+    "premise": "그들은 다리 하나를 건설하고 있었다.",
+    "hypothesis": "그들은 다리 하나를 다 건설했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_072",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "발명하다",
+    "premise": "그녀는 기계 하나를 발명하고 있었다.",
+    "hypothesis": "그녀는 기계 하나를 다 발명했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_073",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "생산하다",
+    "premise": "공장이 자동차 100대를 생산하고 있었다.",
+    "hypothesis": "공장이 자동차 100대를 생산했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_074",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "세우다",
+    "premise": "그는 여행 계획 하나를 세우고 있었다.",
+    "hypothesis": "그는 여행 계획 하나를 다 세웠다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_075",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "계산하다",
+    "premise": "그녀는 총합을 계산하고 있었다.",
+    "hypothesis": "그녀는 총합을 다 계산했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_076",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "측정하다",
+    "premise": "그는 방의 넓이를 측정하고 있었다.",
+    "hypothesis": "그는 방의 넓이를 다 측정했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_077",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "세다",
+    "premise": "그녀는 동전 100개를 세고 있었다.",
+    "hypothesis": "그녀는 동전 100개를 세었다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_078",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "받아쓰다",
+    "premise": "그는 문장 하나를 받아쓰고 있었다.",
+    "hypothesis": "그는 문장 하나를 다 받아썼다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_079",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "다운로드하다",
+    "premise": "그녀는 파일 하나를 다운로드하고 있었다.",
+    "hypothesis": "그녀는 파일 하나를 다 다운로드했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_080",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "업로드하다",
+    "premise": "그는 영상 하나를 업로드하고 있었다.",
+    "hypothesis": "그는 영상 하나를 다 업로드했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_081",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "인쇄하다",
+    "premise": "그녀는 문서 한 부를 인쇄하고 있었다.",
+    "hypothesis": "그녀는 문서 한 부를 다 인쇄했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_082",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "심다",
+    "premise": "그는 나무 한 그루를 심고 있었다.",
+    "hypothesis": "그는 나무 한 그루를 다 심었다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_083",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "수확하다",
+    "premise": "농부가 벼 한 마지기를 수확하고 있었다.",
+    "hypothesis": "농부가 벼 한 마지기를 다 수확했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_084",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "섞다",
+    "premise": "그녀는 재료 세 가지를 섞고 있었다.",
+    "hypothesis": "그녀는 재료 세 가지를 다 섞었다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_085",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "갖추다",
+    "premise": "그들은 실험실에 장비를 갖추고 있었다.",
+    "hypothesis": "그들은 실험실에 장비를 다 갖췄다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_086",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "설립하다",
+    "premise": "그는 회사 하나를 설립하고 있었다.",
+    "hypothesis": "그는 회사 하나를 다 설립했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_087",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "형성하다",
+    "premise": "그녀는 새로운 습관을 형성하고 있었다.",
+    "hypothesis": "그녀는 새로운 습관을 다 형성했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_088",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "빚다",
+    "premise": "그는 만두 100개를 빚고 있었다.",
+    "hypothesis": "그는 만두 100개를 빚었다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_089",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "조립하다",
+    "premise": "그녀는 가구 하나를 조립하고 있었다.",
+    "hypothesis": "그녀는 가구 하나를 다 조립했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_090",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "모으다",
+    "premise": "그는 동전 100개를 모으고 있었다.",
+    "hypothesis": "그는 동전 100개를 모았다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_091",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "수집하다",
+    "premise": "그녀는 우표 50장을 수집하고 있었다.",
+    "hypothesis": "그녀는 우표 50장을 수집했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_092",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Creation",
+    "verb": "따다",
+    "premise": "그는 사과 10개를 따고 있었다.",
+    "hypothesis": "그는 사과 10개를 땄다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_093",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "오르다",
+    "premise": "그는 산 정상에 오르고 있었다.",
+    "hypothesis": "그는 산 정상에 올랐다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_094",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "건너다",
+    "premise": "그녀는 강을 건너고 있었다.",
+    "hypothesis": "그녀는 강을 건넜다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_095",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "등산하다",
+    "premise": "그는 정상까지 등산하고 있었다.",
+    "hypothesis": "그는 정상까지 등산했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_096",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "날아가다",
+    "premise": "비행기가 서울까지 날아가고 있었다.",
+    "hypothesis": "비행기가 서울까지 날아갔다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_097",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "배달하다",
+    "premise": "그는 피자 한 판을 배달하고 있었다.",
+    "hypothesis": "그는 피자 한 판을 배달했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_098",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "도착하다",
+    "premise": "비행기가 공항에 도착하고 있었다.",
+    "hypothesis": "비행기가 목적지 공항에 도착했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_099",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "입장하다",
+    "premise": "그녀는 경기장에 입장하고 있었다.",
+    "hypothesis": "그녀는 경기장에 입장했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "C_100",
+    "group": "C_Ambiguous_Accomplishment",
+    "verb_class": "Motion_to_Goal",
+    "verb": "도달하다",
+    "premise": "그는 결승지점에 도달하고 있었다.",
+    "hypothesis": "그는 결승지점에 도달했다.",
+    "label": "Unknown"
+  },
+  {
+    "id": "D_001",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "달리다",
+    "premise": "그는 운동장에서 달리고 있었다.",
+    "hypothesis": "그는 달렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_002",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "헤엄치다",
+    "premise": "그녀는 바다에서 헤엄치고 있었다.",
+    "hypothesis": "그녀는 헤엄쳤다.",
+    "label": "True"
+  },
+  {
+    "id": "D_003",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "걷다",
+    "premise": "그는 공원에서 걷고 있었다.",
+    "hypothesis": "그는 걸었다.",
+    "label": "True"
+  },
+  {
+    "id": "D_004",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "밀다",
+    "premise": "그녀는 카트를 밀고 있었다.",
+    "hypothesis": "그녀는 카트를 밀었다.",
+    "label": "True"
+  },
+  {
+    "id": "D_005",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "재잘거리다",
+    "premise": "아이들이 재잘거리고 있었다.",
+    "hypothesis": "아이들이 재잘거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_006",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "춤추다",
+    "premise": "그녀는 무대에서 춤추고 있었다.",
+    "hypothesis": "그녀는 춤췄다.",
+    "label": "True"
+  },
+  {
+    "id": "D_007",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "노래하다",
+    "premise": "그는 무대에서 노래하고 있었다.",
+    "hypothesis": "그는 노래했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_008",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "웃다",
+    "premise": "아이가 웃고 있었다.",
+    "hypothesis": "아이가 웃었다.",
+    "label": "True"
+  },
+  {
+    "id": "D_009",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "울다",
+    "premise": "아이가 울고 있었다.",
+    "hypothesis": "아이가 울었다.",
+    "label": "True"
+  },
+  {
+    "id": "D_010",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "소리치다",
+    "premise": "그는 소리치고 있었다.",
+    "hypothesis": "그는 소리쳤다.",
+    "label": "True"
+  },
+  {
+    "id": "D_011",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "놀다",
+    "premise": "아이들이 놀고 있었다.",
+    "hypothesis": "아이들이 놀았다.",
+    "label": "True"
+  },
+  {
+    "id": "D_012",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "배회하다",
+    "premise": "그는 거리를 배회하고 있었다.",
+    "hypothesis": "그는 배회했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_013",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "논의하다",
+    "premise": "그들은 여러 문제에 대해 논의하고 있었다.",
+    "hypothesis": "그들은 논의했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_014",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "기다리다",
+    "premise": "그는 버스를 기다리고 있었다.",
+    "hypothesis": "그는 기다렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_015",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "공부하다",
+    "premise": "그녀는 공부하고 있었다.",
+    "hypothesis": "그녀는 공부했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_016",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "일하다",
+    "premise": "그는 사무실에서 일하고 있었다.",
+    "hypothesis": "그는 일했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_017",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "운동하다",
+    "premise": "그녀는 헬스장에서 운동하고 있었다.",
+    "hypothesis": "그녀는 운동했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_018",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "둘러보다",
+    "premise": "그는 매장을 둘러보고 있었다.",
+    "hypothesis": "그는 둘러봤다.",
+    "label": "True"
+  },
+  {
+    "id": "D_019",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "떠다니다",
+    "premise": "나뭇잎이 물 위에 떠다니고 있었다.",
+    "hypothesis": "나뭇잎이 떠다녔다.",
+    "label": "True"
+  },
+  {
+    "id": "D_020",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "활공하다",
+    "premise": "새가 하늘에서 활공하고 있었다.",
+    "hypothesis": "새가 활공했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_021",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "미끄러지다",
+    "premise": "스케이터가 얼음 위를 미끄러지고 있었다.",
+    "hypothesis": "스케이터가 미끄러졌다.",
+    "label": "True"
+  },
+  {
+    "id": "D_022",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "구르다",
+    "premise": "공이 언덕 아래로 구르고 있었다.",
+    "hypothesis": "공이 굴렀다.",
+    "label": "True"
+  },
+  {
+    "id": "D_023",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "뒤척이다",
+    "premise": "그는 밤새 뒤척이고 있었다.",
+    "hypothesis": "그는 뒤척였다.",
+    "label": "True"
+  },
+  {
+    "id": "D_024",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "꿈꾸다",
+    "premise": "그녀는 꿈꾸고 있었다.",
+    "hypothesis": "그녀는 꿈꿨다.",
+    "label": "True"
+  },
+  {
+    "id": "D_025",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "명상하다",
+    "premise": "그는 명상하고 있었다.",
+    "hypothesis": "그는 명상했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_026",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "떨다",
+    "premise": "나뭇가지가 바람에 떨고 있었다.",
+    "hypothesis": "나뭇가지가 떨었다.",
+    "label": "True"
+  },
+  {
+    "id": "D_027",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "허덕이다",
+    "premise": "그는 운동장에서 허덕이고 있었다.",
+    "hypothesis": "그는 허덕였다.",
+    "label": "True"
+  },
+  {
+    "id": "D_028",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "출혈하다",
+    "premise": "환자가 출혈하고 있었다.",
+    "hypothesis": "환자가 출혈했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_029",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "빛나다",
+    "premise": "가로등이 빛나고 있었다.",
+    "hypothesis": "가로등이 빛났다.",
+    "label": "True"
+  },
+  {
+    "id": "D_030",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "진동하다",
+    "premise": "휴대폰이 책상 위에서 진동하고 있었다.",
+    "hypothesis": "휴대폰이 진동했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_031",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "흥얼거리다",
+    "premise": "그녀는 흥얼거리고 있었다.",
+    "hypothesis": "그녀는 흥얼거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_032",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "포효하다",
+    "premise": "사자가 계속 포효하고 있었다.",
+    "hypothesis": "사자가 포효했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_033",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "짖다",
+    "premise": "개가 계속 짖고 있었다.",
+    "hypothesis": "개가 짖었다.",
+    "label": "True"
+  },
+  {
+    "id": "D_034",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "응시하다",
+    "premise": "그는 창밖을 응시하고 있었다.",
+    "hypothesis": "그는 창밖을 응시했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_035",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "경청하다",
+    "premise": "그녀는 강연을 경청하고 있었다.",
+    "hypothesis": "그녀는 경청했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_036",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "지켜보다",
+    "premise": "그는 아이들을 지켜보고 있었다.",
+    "hypothesis": "그는 아이들을 지켜봤다.",
+    "label": "True"
+  },
+  {
+    "id": "D_037",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "쓰다듬다",
+    "premise": "그녀는 고양이를 쓰다듬고 있었다.",
+    "hypothesis": "그녀는 쓰다듬었다.",
+    "label": "True"
+  },
+  {
+    "id": "D_038",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "싸우다",
+    "premise": "그들은 싸우고 있었다.",
+    "hypothesis": "그들은 싸웠다.",
+    "label": "True"
+  },
+  {
+    "id": "D_039",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "실랑이하다",
+    "premise": "그들은 실랑이하고 있었다.",
+    "hypothesis": "그들은 실랑이했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_040",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "씨름하다",
+    "premise": "선수들이 씨름하고 있었다.",
+    "hypothesis": "선수들이 씨름했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_041",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "첨벙거리다",
+    "premise": "아이가 웅덩이에서 첨벙거리고 있었다.",
+    "hypothesis": "아이가 첨벙거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_042",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "쇼핑하다",
+    "premise": "그는 쇼핑하고 있었다.",
+    "hypothesis": "그는 쇼핑했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_043",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "순찰하다",
+    "premise": "경비원이 순찰하고 있었다.",
+    "hypothesis": "경비원이 순찰했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_044",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "쫓다",
+    "premise": "경찰이 도둑을 쫓고 있었다.",
+    "hypothesis": "경찰이 쫓았다.",
+    "label": "True"
+  },
+  {
+    "id": "D_045",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "조깅하다",
+    "premise": "그는 공원에서 조깅하고 있었다.",
+    "hypothesis": "그는 조깅했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_046",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "행진하다",
+    "premise": "군인들이 행진하고 있었다.",
+    "hypothesis": "군인들이 행진했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_047",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "활강하다",
+    "premise": "그녀는 슬로프를 활강하고 있었다.",
+    "hypothesis": "그녀는 활강했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_048",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "서핑하다",
+    "premise": "그는 서핑하고 있었다.",
+    "hypothesis": "그는 서핑했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_049",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "질주하다",
+    "premise": "그녀는 초원을 질주하고 있었다.",
+    "hypothesis": "그녀는 질주했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_050",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "빈둥거리다",
+    "premise": "그는 집에서 빈둥거리고 있었다.",
+    "hypothesis": "그는 빈둥거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_051",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "훌쩍이다",
+    "premise": "그녀는 훌쩍이고 있었다.",
+    "hypothesis": "그녀는 훌쩍였다.",
+    "label": "True"
+  },
+  {
+    "id": "D_052",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "찡그리다",
+    "premise": "그는 계속 찡그리고 있었다.",
+    "hypothesis": "그는 찡그렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_053",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "절규하다",
+    "premise": "그녀는 절규하고 있었다.",
+    "hypothesis": "그녀는 절규했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_054",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "울부짖다",
+    "premise": "늑대가 울부짖고 있었다.",
+    "hypothesis": "늑대가 울부짖었다.",
+    "label": "True"
+  },
+  {
+    "id": "D_055",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "속삭이다",
+    "premise": "그는 속삭이고 있었다.",
+    "hypothesis": "그는 속삭였다.",
+    "label": "True"
+  },
+  {
+    "id": "D_056",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "중얼거리다",
+    "premise": "그녀는 중얼거리고 있었다.",
+    "hypothesis": "그녀는 중얼거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_057",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "이야기하다",
+    "premise": "그들은 이야기하고 있었다.",
+    "hypothesis": "그들은 이야기했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_058",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "말하다",
+    "premise": "그는 말하고 있었다.",
+    "hypothesis": "그는 말했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_059",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "험담하다",
+    "premise": "그들은 험담하고 있었다.",
+    "hypothesis": "그들은 험담했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_060",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "놀리다",
+    "premise": "그는 동생을 놀리고 있었다.",
+    "hypothesis": "그는 놀렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_061",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "돕다",
+    "premise": "그녀는 친구를 돕고 있었다.",
+    "hypothesis": "그녀는 도왔다.",
+    "label": "True"
+  },
+  {
+    "id": "D_062",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "시중들다",
+    "premise": "종업원이 손님을 시중들고 있었다.",
+    "hypothesis": "종업원이 시중들었다.",
+    "label": "True"
+  },
+  {
+    "id": "D_063",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "통치하다",
+    "premise": "그 왕은 나라를 통치하고 있었다.",
+    "hypothesis": "그 왕은 통치했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_064",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "살다",
+    "premise": "그는 그 도시에서 살고 있었다.",
+    "hypothesis": "그는 살았다.",
+    "label": "True"
+  },
+  {
+    "id": "D_065",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "호흡하다",
+    "premise": "그는 호흡하고 있었다.",
+    "hypothesis": "그는 호흡했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_066",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "기침하다",
+    "premise": "그는 계속 기침하고 있었다.",
+    "hypothesis": "그는 기침했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_067",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "하품하다",
+    "premise": "그녀는 계속 하품하고 있었다.",
+    "hypothesis": "그녀는 하품했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_068",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "깜빡이다",
+    "premise": "그의 눈이 계속 깜빡이고 있었다.",
+    "hypothesis": "그의 눈이 깜빡였다.",
+    "label": "True"
+  },
+  {
+    "id": "D_069",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "끄덕이다",
+    "premise": "그녀는 계속 끄덕이고 있었다.",
+    "hypothesis": "그녀는 끄덕였다.",
+    "label": "True"
+  },
+  {
+    "id": "D_070",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "박수치다",
+    "premise": "관객들이 계속 박수치고 있었다.",
+    "hypothesis": "관객들이 박수쳤다.",
+    "label": "True"
+  },
+  {
+    "id": "D_071",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "허우적거리다",
+    "premise": "아이가 물속에서 허우적거리고 있었다.",
+    "hypothesis": "아이가 허우적거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_072",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "씰룩거리다",
+    "premise": "그의 입꼬리가 씰룩거리고 있었다.",
+    "hypothesis": "그의 입꼬리가 씰룩거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_073",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "쑤시다",
+    "premise": "다리가 계속 쑤시고 있었다.",
+    "hypothesis": "다리가 쑤셨다.",
+    "label": "True"
+  },
+  {
+    "id": "D_074",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "근질거리다",
+    "premise": "팔이 근질거리고 있었다.",
+    "hypothesis": "팔이 근질거렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_075",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "일렁이다",
+    "premise": "촛불이 일렁이고 있었다.",
+    "hypothesis": "촛불이 일렁였다.",
+    "label": "True"
+  },
+  {
+    "id": "D_076",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "반짝이다",
+    "premise": "별이 밤하늘에서 반짝이고 있었다.",
+    "hypothesis": "별이 반짝였다.",
+    "label": "True"
+  },
+  {
+    "id": "D_077",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "서성이다",
+    "premise": "그는 복도에서 서성이고 있었다.",
+    "hypothesis": "그는 서성였다.",
+    "label": "True"
+  },
+  {
+    "id": "D_078",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "흥정하다",
+    "premise": "그녀는 상인과 흥정하고 있었다.",
+    "hypothesis": "그녀는 흥정을 했다.",
+    "label": "True",
+    "note": "*성공 여부와 무관하게 행위 자체를 했다는 뜻으로만 판단"
+  },
+  {
+    "id": "D_079",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "낙서하다",
+    "premise": "아이가 노트에 낙서하고 있었다.",
+    "hypothesis": "아이가 낙서했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_080",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "자라다",
+    "premise": "그 나무는 1년 동안 자라고 있었다.",
+    "hypothesis": "그 나무는 전보다 자랐다.",
+    "label": "True"
+  },
+  {
+    "id": "D_081",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "방황하다",
+    "premise": "그는 진로에 대해 방황하고 있었다.",
+    "hypothesis": "그는 방황했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_082",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "돌다",
+    "premise": "팽이가 돌고 있었다.",
+    "hypothesis": "팽이가 돌았다.",
+    "label": "True"
+  },
+  {
+    "id": "D_083",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "흔들리다",
+    "premise": "나뭇가지가 흔들리고 있었다.",
+    "hypothesis": "나뭇가지가 흔들렸다.",
+    "label": "True"
+  },
+  {
+    "id": "D_084",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "여행하다",
+    "premise": "그녀는 유럽을 여행하고 있었다.",
+    "hypothesis": "그녀는 여행했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_085",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "통근하다",
+    "premise": "그는 지하철로 통근하고 있었다.",
+    "hypothesis": "그는 통근했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_086",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "스트레칭하다",
+    "premise": "그는 스트레칭하고 있었다.",
+    "hypothesis": "그는 스트레칭했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_087",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "딸꾹질하다",
+    "premise": "그는 계속 딸꾹질하고 있었다.",
+    "hypothesis": "그는 딸꾹질했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_088",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "흐르다",
+    "premise": "강물이 흐르고 있었다.",
+    "hypothesis": "강물이 흘렀다.",
+    "label": "True"
+  },
+  {
+    "id": "D_089",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "비가 오다",
+    "premise": "비가 오고 있었다.",
+    "hypothesis": "비가 왔다.",
+    "label": "True"
+  },
+  {
+    "id": "D_090",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "눈이 오다",
+    "premise": "눈이 오고 있었다.",
+    "hypothesis": "눈이 왔다.",
+    "label": "True"
+  },
+  {
+    "id": "D_091",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "바람이 불다",
+    "premise": "바람이 불고 있었다.",
+    "hypothesis": "바람이 불었다.",
+    "label": "True"
+  },
+  {
+    "id": "D_092",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "졸다",
+    "premise": "그는 수업 중에 졸고 있었다.",
+    "hypothesis": "그는 졸았다.",
+    "label": "True"
+  },
+  {
+    "id": "D_093",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "사냥하다",
+    "premise": "사자가 사냥을 하고 있었다.",
+    "hypothesis": "사자가 사냥을 했다.",
+    "label": "True",
+    "note": "*성공 여부와 무관하게 행위 자체를 했다는 뜻으로만 판단"
+  },
+  {
+    "id": "D_094",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "낚시하다",
+    "premise": "그는 낚시하고 있었다.",
+    "hypothesis": "그는 낚시했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_095",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "요리하다",
+    "premise": "그녀는 요리하고 있었다.",
+    "hypothesis": "그녀는 요리를 했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_096",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "흡연하다",
+    "premise": "그는 흡연하고 있었다.",
+    "hypothesis": "그는 흡연했다.",
+    "label": "True"
+  },
+  {
+    "id": "D_097",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "홀짝이다",
+    "premise": "그녀는 커피를 홀짝이고 있었다.",
+    "hypothesis": "그녀는 커피를 홀짝였다.",
+    "label": "True"
+  },
+  {
+    "id": "D_098",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "씹다",
+    "premise": "그는 껌을 씹고 있었다.",
+    "hypothesis": "그는 껌을 씹었다.",
+    "label": "True"
+  },
+  {
+    "id": "D_099",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "문지르다",
+    "premise": "그녀는 손을 문지르고 있었다.",
+    "hypothesis": "그녀는 손을 문질렀다.",
+    "label": "True"
+  },
+  {
+    "id": "D_100",
+    "group": "D_Ambiguous_Activity",
+    "verb_class": "Activity",
+    "verb": "긁다",
+    "premise": "그는 팔을 긁고 있었다.",
+    "hypothesis": "그는 팔을 긁었다.",
+    "label": "True"
+  }
+]

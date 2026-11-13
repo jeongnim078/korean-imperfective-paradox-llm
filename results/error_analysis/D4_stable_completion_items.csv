@@ -1,0 +1,12 @@
+﻿id,verb,verb_class,premise,hypothesis,gold,qwen_zeroshot,qwen_dap,qwen_cot,qwen_cf,nf4_zeroshot,nf4_dap,survey_raters_1to5,검토메모
+C_041,굽다,Change_of_State,그녀는 고기를 다 익을 때까지 굽고 있었다.,그녀는 고기를 다 구웠다.,Unknown,True,True,True,Unknown,True,True,Unknown / Unknown / Unknown / Unknown / False,
+C_073,생산하다,Creation,공장이 자동차 100대를 생산하고 있었다.,공장이 자동차 100대를 생산했다.,Unknown,True,True,Unknown,Unknown,True,True,설문 미포함,
+C_077,세다,Creation,그녀는 동전 100개를 세고 있었다.,그녀는 동전 100개를 세었다.,Unknown,True,True,Unknown,Unknown,True,True,설문 미포함,
+C_088,빚다,Creation,그는 만두 100개를 빚고 있었다.,그는 만두 100개를 빚었다.,Unknown,True,True,Unknown,Unknown,True,True,설문 미포함,
+C_092,따다,Creation,그는 사과 10개를 따고 있었다.,그는 사과 10개를 땄다.,Unknown,True,True,Unknown,Unknown,True,True,Unknown / Unknown / Unknown / Unknown / False,
+C_094,건너다,Motion_to_Goal,그녀는 강을 건너고 있었다.,그녀는 강을 건넜다.,Unknown,True,True,Unknown,Unknown,True,True,Unknown / Unknown / Unknown / Unknown / False,
+C_095,등산하다,Motion_to_Goal,그는 정상까지 등산하고 있었다.,그는 정상까지 등산했다.,Unknown,True,True,Unknown,Unknown,True,True,Unknown / Unknown / Unknown / Unknown / False,
+C_096,날아가다,Motion_to_Goal,비행기가 서울까지 날아가고 있었다.,비행기가 서울까지 날아갔다.,Unknown,True,True,Unknown,Unknown,True,True,Unknown / Unknown / Unknown / Unknown / False,
+C_097,배달하다,Motion_to_Goal,그는 피자 한 판을 배달하고 있었다.,그는 피자 한 판을 배달했다.,Unknown,True,True,Unknown,Unknown,True,True,Unknown / Unknown / Unknown / Unknown / False,
+C_099,입장하다,Motion_to_Goal,그녀는 경기장에 입장하고 있었다.,그녀는 경기장에 입장했다.,Unknown,True,True,Unknown,Unknown,True,True,True / Unknown / Unknown / Unknown / False,
+C_100,도달하다,Motion_to_Goal,그는 결승지점에 도달하고 있었다.,그는 결승지점에 도달했다.,Unknown,True,True,Unknown,Unknown,True,True,Unknown / False / Unknown / False / False,

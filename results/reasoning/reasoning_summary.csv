@@ -1,0 +1,13 @@
+﻿model,strategy,Correct_Logic_cnt,Correct_Logic_pct,Direct_False_Overconfidence_Error_cnt,Direct_False_Overconfidence_Error_pct,Direct_True_Hallucination_Error_cnt,Direct_True_Hallucination_Error_pct,Direct_Unknown_Withholding_Error_cnt,Direct_Unknown_Withholding_Error_pct,Interruption_Overinterpretation_Error_cnt,Interruption_Overinterpretation_Error_pct,Other_CoT_Error_cnt,Other_CoT_Error_pct,Telic_Criteria_Error_cnt,Telic_Criteria_Error_pct,Unknown_Withholding_Error_cnt,Unknown_Withholding_Error_pct,total_n
+gemini,cot,397,99.25,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,3,0.75,0,0.0,400
+gemini,counterfactual,376,94.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,1,0.25,23,5.75,400
+gemini,dap,397,99.25,0,0.0,0,0.0,3,0.75,0,0.0,0,0.0,0,0.0,0,0.0,400
+gemini,zero-shot,396,99.0,0,0.0,0,0.0,4,1.0,0,0.0,0,0.0,0,0.0,0,0.0,400
+gpt,cot,363,90.75,0,0.0,0,0.0,0,0.0,0,0.0,1,0.25,36,9.0,0,0.0,400
+gpt,counterfactual,368,92.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,2,0.5,30,7.5,400
+gpt,dap,388,97.0,0,0.0,0,0.0,12,3.0,0,0.0,0,0.0,0,0.0,0,0.0,400
+gpt,zero-shot,391,97.75,0,0.0,1,0.25,8,2.0,0,0.0,0,0.0,0,0.0,0,0.0,400
+qwen,cot,296,74.0,0,0.0,0,0.0,0,0.0,1,0.25,3,0.75,97,24.25,3,0.75,400
+qwen,counterfactual,262,65.5,0,0.0,0,0.0,0,0.0,1,0.25,0,0.0,5,1.25,132,33.0,400
+qwen,dap,339,84.75,42,10.5,11,2.75,8,2.0,0,0.0,0,0.0,0,0.0,0,0.0,400
+qwen,zero-shot,373,93.25,5,1.25,15,3.75,7,1.7500000000000002,0,0.0,0,0.0,0,0.0,0,0.0,400
